@@ -1,0 +1,10 @@
+C:\Users\robby\Documents\Visual Studio 2008\Projects\SPPDinas\SPPDinas\SPPDinas\bin\Debug\SPPDinas.exe
+C:\Users\robby\Documents\Visual Studio 2008\Projects\SPPDinas\SPPDinas\SPPDinas\bin\Debug\SPPDinas.pdb
+C:\Users\robby\Documents\Visual Studio 2008\Projects\SPPDinas\SPPDinas\SPPDinas\bin\Debug\SPPDinas.xml
+C:\Users\robby\Documents\Visual Studio 2008\Projects\SPPDinas\SPPDinas\SPPDinas\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\robby\Documents\Visual Studio 2008\Projects\SPPDinas\SPPDinas\SPPDinas\obj\Debug\SPPDinas.FrMain.resources
+C:\Users\robby\Documents\Visual Studio 2008\Projects\SPPDinas\SPPDinas\SPPDinas\obj\Debug\SPPDinas.Resources.resources
+C:\Users\robby\Documents\Visual Studio 2008\Projects\SPPDinas\SPPDinas\SPPDinas\obj\Debug\SPPDinas.vbproj.GenerateResource.Cache
+C:\Users\robby\Documents\Visual Studio 2008\Projects\SPPDinas\SPPDinas\SPPDinas\obj\Debug\SPPDinas.exe
+C:\Users\robby\Documents\Visual Studio 2008\Projects\SPPDinas\SPPDinas\SPPDinas\obj\Debug\SPPDinas.xml
+C:\Users\robby\Documents\Visual Studio 2008\Projects\SPPDinas\SPPDinas\SPPDinas\obj\Debug\SPPDinas.pdb
